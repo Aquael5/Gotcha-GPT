@@ -9,6 +9,8 @@ Gotcha GPT is a code to dicriminate AI- and human-generated english manuscripts 
 
 The Gotcha GPT framework is highly versatile (coded in Google Colab). It uses Scikit learn libraries to provide the statisctics (precision, accuracy, recall, F1, MCC, and Cohen´ Kappa scores) and the confusion matrix to guarantee confidence to the user. There is a text dataset of about 400 AI-generated texts and around 400 human-generated texts used for training and testing (50/50 random split).
 
+<img src="gotcha.png" alt="drawing" width="200"/>
+
 # Installation instructions
 
 Gotcha GPT is 100% compatible with Google Colab platform developed in Microsoft Windows using Python version 3.10.
