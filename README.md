@@ -1,5 +1,5 @@
 # Gotcha-GPT
-<img src="emoji brain.jpg" alt="drawing" width="200"/>
+<img src="gotcha.gif" alt="drawing" width="200"/>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12630043.svg)](https://doi.org/10.5281/zenodo.12630043)
 
